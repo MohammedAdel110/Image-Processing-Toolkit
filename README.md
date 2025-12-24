@@ -92,13 +92,7 @@ The project covers **spatial domain**, **frequency domain**, **noise models**, a
 ---
 
 ## 🛠 Technologies Used
-- Programming Language: **Python / MATLAB** *(حسب تنفيذك)*  
+- Programming Language:  / MATLAB
 - Libraries:
-  - OpenCV
-  - NumPy
-  - Matplotlib
-
----
-
-## 📂 Project Structure (Example)
+- Matplotlib
 
